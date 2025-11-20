@@ -8,5 +8,9 @@ Propósito:
 
 - Guardar prototipos con registro de cambios
 
+Actualización 19/11/2025
+
+-Creación "logo/estilos" e "interfaz figma"
+
 
 ***
